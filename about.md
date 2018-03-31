@@ -10,7 +10,7 @@ permalink: /about/
 {% endraw %}
 
 # Keywords: 
-- Chess, NLP, AI
+- Chess, NLP, AI (Deep Learning)
 - Automation, CI/CD, Docker
 - Python, Scala, Ruby on Rails
 - Vim, Bash, tmux
