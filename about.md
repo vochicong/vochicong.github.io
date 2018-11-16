@@ -1,25 +1,23 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-# Hi! 
-I'm an active learner on [Coursera](http://bit.ly/vcc-coursera) 
+# Hi
+
+I'm an active learner on [Coursera](http://bit.ly/vcc-coursera)
 and [QwickLabs](http://bit.ly/vcc-quests).
 Track my [learning progress](https://github.com/vochicong/progress) on [GitHub](https://github.com/vochicong/progress).
 
-# Links
-- [PMP更新とACP取得の費用や工夫メモ](http://bit.ly/2rENx9z)
-- [team-vietnam/members](https://github.com/team-vietnam/members): some Vietnamese developers
-- [vochicong/datalab-nlp](https://github.com/vochicong/datalab-nlp): NLP extension to Google Cloud Datalab
-- [HazyResearch/snorkel](https://github.com/HazyResearch/snorkel): a training data creation and management system focused on information extraction
-- [mynlp/jigg](https://github.com/mynlp/jigg): pipeline framework for easy natural language processing
-- [vochicong/kuromoji-server-docker](https://github.com/vochicong/kuromoji-server-docker): Docker image for kuromoji-server
-- [vochicong/railstutorial](https://github.com/vochicong/railstutorial): Rails Tutorial
-- [vochicong/dev-env](https://github.com/vochicong/dev-env): My dev env configuration and dot files
+# Interests
 
-# Favorite keywords
+- Shogi (Japanese Chess)
+- Recommender Systems
+- Machine Learning Interpretability
+
+# Keywords
+
 - Chess, NLP, AI (Deep Learning)
 - Automation, CI/CD, Docker
 - Python, Scala, Ruby on Rails
