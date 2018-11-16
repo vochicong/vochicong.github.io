@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 # Hi! 
-I'm an active learner on [Coursera](https://docs.google.com/presentation/d/126SQOAgnDpB-NoI25DwiGiosQHyeNMFUE3aBeeDekds/edit#slide=id.g714129a474225e97_0) and [QwickLabs](https://www.qwiklabs.com/public_profiles/91130e28-0ee5-4c94-8a50-cf40a1bbae45).
+I'm an active learner on [Coursera](http://bit.ly/vcc-coursera) 
+and [QwickLabs](http://bit.ly/vcc-quests).
 Track my [learning progress](https://github.com/vochicong/progress) on [GitHub](https://github.com/vochicong/progress).
 
 # Links
