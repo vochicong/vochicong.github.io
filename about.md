@@ -10,6 +10,8 @@ I'm an active learner on [Coursera](http://bit.ly/vcc-coursera)
 and [QwickLabs](http://bit.ly/vcc-quests).
 Track my [learning progress](https://github.com/vochicong/progress) on [GitHub](https://github.com/vochicong/progress).
 
+- [自己紹介１枚](http://bit.ly/vochicong)
+
 # Interests
 
 - Shogi (Japanese Chess)
