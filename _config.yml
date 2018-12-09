@@ -25,6 +25,7 @@ github_username:  vochicong
 # Build settings
 markdown: kramdown
 theme: minima
+google_analytics: UA-6735451-4
 plugins:
   - jekyll-feed
 exclude:
