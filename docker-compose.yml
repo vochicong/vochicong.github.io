@@ -1,0 +1,16 @@
+version: '3'
+services:
+  ghp:
+    image: ruby
+    volumes:
+    - .:/app
+    - /usr/local/bundle
+    working_dir: /app
+    ports:
+    - 4000:4000
+    command:
+      - /bin/sh
+      - -c
+      - |
+        bundle install -j 4
+        bundle exec jekyll serve
