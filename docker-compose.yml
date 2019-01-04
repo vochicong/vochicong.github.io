@@ -1,7 +1,7 @@
 version: '3'
 services:
   ghp:
-    image: ruby
+    image: jekyll/jekyll
     volumes:
     - .:/app
     - /usr/local/bundle
@@ -12,5 +12,4 @@ services:
       - /bin/sh
       - -c
       - |
-        bundle install -j 4
-        bundle exec jekyll serve
+        jekyll serve
