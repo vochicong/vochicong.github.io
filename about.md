@@ -14,14 +14,14 @@ Track my [learning progress](https://github.com/vochicong/progress) on [GitHub](
 
 # Interests
 
-- Shogi (Japanese Chess)
-- Recommender Systems
-- Machine Learning Interpretability
+- Chess, Shogi (Japanese Chess)
+- Development and testing automation
+- AI, NLP, recommendation, ML interpretability
 
 # Keywords
 
-- Chess, NLP, AI (Deep Learning)
-- Automation, CI/CD, Docker
+- Deep Learning
+- CI/CD, Docker
 - Python, Scala, Ruby on Rails
 - Vim, Bash, tmux
 - GCP, AWS
