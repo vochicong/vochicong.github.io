@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finish Deep Learning Specialization!"
+title:  "Deep Learning Specialization!"
 date:   2018-04-01 01:56:00 +0900
 categories: coursera ai deeplearning
 ---

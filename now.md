@@ -4,12 +4,7 @@ title: Now
 permalink: /now
 ---
 
-# Vision
+For Peace & Freedom
 
-Democratize the Finance
-
-# Projects
-
-- mock2code
-- wcsc29
-- fintech
+- Chess, Shogi ❤️ 
+- Kaggle, NLP/ML/AI 😎
