@@ -6,5 +6,6 @@ permalink: /now
 
 For Peace & Freedom
 
-- Chess, Shogi ❤️ 
-- Kaggle, NLP/ML/AI 😎
+- Work to break language barriers, NLP/ML/AI 🚩
+- Practice on LeetCode, Kaggle 😎
+- Play Chess, Shogi ❤️
