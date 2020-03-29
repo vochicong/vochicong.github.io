@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Links
 permalink: /links
 ---
 
 # Links
+
+I'm `vochicong` on GitHub, Twitter, Facebook, and LinkedIn.
 
 - [PMP更新とACP取得の費用や工夫メモ](http://bit.ly/2rENx9z)
 - [team-vietnam/members](https://github.com/team-vietnam/members): some Vietnamese developers

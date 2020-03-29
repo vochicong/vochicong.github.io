@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Vo Chi Cong
-email: kongvc@gmail.com
+email: chicong.v@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello World. Xin chào.こんにちは
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,16 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 theme: jekyll-theme-hacker
 google_analytics: UA-6735451-4
-plugins:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - bin
-minima:
-  social_links:
-    twitter: vochicong
-    github:  vochicong
-    facebook: vochicong
-    linkedin: vochicong
