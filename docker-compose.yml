@@ -1,9 +1,9 @@
 services:
   ghp:
-    image: jekyll/jekyll
+    image: ruby:3.3-slim
     volumes:
     - .:/app
-    - /usr/local/bundle
+    - bundle:/usr/local/bundle
     working_dir: /app
     ports:
     - 4000:4000
@@ -11,4 +11,11 @@ services:
       - /bin/sh
       - -c
       - |
-        jekyll serve --host 0.0.0.0
+        apt-get update -qq && apt-get install -y -qq build-essential git > /dev/null
+        git config --global --add safe.directory /app
+        gem install bundler -v 2.3.25 --no-document -q
+        bundle install
+        bundle exec jekyll serve --host 0.0.0.0
+
+volumes:
+  bundle:
