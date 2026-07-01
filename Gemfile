@@ -9,10 +9,19 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+gem "jekyll", "~> 4.3"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "github-pages"
+   gem "jekyll-theme-hacker"
+   gem "jekyll-seo-tag"
+   gem "jekyll-github-metadata"
+   gem "jekyll-feed"
+   gem "jekyll-sitemap"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# webrick was removed from Ruby stdlib in 3.0; jekyll serve needs it explicitly
+gem "webrick", "~> 1.8"

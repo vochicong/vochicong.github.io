@@ -1,4 +1,3 @@
-version: '3'
 services:
   ghp:
     image: jekyll/jekyll
@@ -12,4 +11,4 @@ services:
       - /bin/sh
       - -c
       - |
-        jekyll serve
+        jekyll serve --host 0.0.0.0

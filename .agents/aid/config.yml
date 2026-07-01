@@ -1,0 +1,9 @@
+# .agents/aid/config.yml — aid per-repo config (read by scripts/work-root.sh)
+# This is a plain personal Jekyll blog, not a HAND-fenced agent repo (no ai/
+# scratch tree, no AGENTS.md agent-only zone) — so the write-zone guard is
+# flipped to deny-list with nothing protected, letting the agent edit repo
+# files directly (Gemfile, _config.yml, .github/workflows/, etc.) instead of
+# being fenced into ai/.agents/.claude/openspec.
+work_root: .
+guard_mode: deny-list
+protected_zones: []
